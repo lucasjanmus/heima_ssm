@@ -1,0 +1,5 @@
+
+dsquid:UselessImportCheck"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8¥ÿñœ¥-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(Ò®ÜÄ8±øáœ¥-
+|squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "format".(¬ˆù¯8Åèœ¥-
+{squid:S1488"]Immediately return this expression instead of assigning it to the temporary variable "parse".(›²±Û8ø®øœ¥-
